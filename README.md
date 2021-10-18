@@ -39,6 +39,6 @@ THEN I am again presented with current and future conditions for that city
 
 2. I used the `git add`, `git commit`, and `git push` commands to save and push my code to my GitHub repository.
 
-3. My repository is https://github.com/gharduim/work-day-scheduler
+3. My repository is https://github.com/gharduim/weather-dashboard/
 
-4. My live webpage is  https://gharduim.github.io/work-day-scheduler/
+4. My live webpage is  https://gharduim.github.io/weather-dashboard/
