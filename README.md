@@ -1,10 +1,8 @@
 # Weather Dashboard
 
-## Homework - week 6
-
 ## Short description
 
-I have created a weather dashboard with the criteria below.
+A weather dashboard with form inputs with current and future conditions for that city and that city is added to the search history.
 
 ```
 GIVEN a weather dashboard with form inputs
